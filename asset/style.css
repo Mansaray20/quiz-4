@@ -1,0 +1,32 @@
+.high-score{
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+}
+
+.answers {
+    margin: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.answers ul {
+    list-style: none;
+}
+
+.answers ul li {
+    font-size: 22px;
+}
+
+.set {
+    display: none;
+}
+
+.btn {
+    background-color: navy;
+    color: white;
+    font-size: 22px;
+    width: 200px;
+    margin-top: 10px;
+
+}
